@@ -4,14 +4,7 @@ Gathering a quick snapshot of configured reliable sources...
 - CDC: Centers for Disease Control and Prevention | CDC (len=3015)
 - AAP (HealthyChildren.org): HealthyChildren.org - From the American Academy of Pediatrics (len=3015)
 - WHO: World Health Organization (WHO) (len=3015)
-╭───────────────────────────────────────────────────────────────────────────────── IMPORTANT ──────────────────────────────────────────────────────────────────────────────────╮
-│ WARNING: MamaBot provides general informational support for new parents. It is NOT a substitute for professional medical, legal, or emergency advice. If you suspect an      │
-│ emergency, call your local emergency number or seek immediate medical care.                                                                                                  │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────────────────────────────────── IMPORTANT ──────────────────────────────────────────────────────────────────────────────────╮
-│ WARNING: MamaBot provides general informational support for new parents. It is NOT a substitute for professional medical, legal, or emergency advice. If you suspect an      │
-│ emergency, call your local emergency number or seek immediate medical care.                                                                                                  │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+ WARNING: MamaBot provides general informational support for new parents. It is NOT a substitute for professional medical, legal, or emergency advice. If you suspect an emergency, call your local emergency number or seek immediate medical care.                                                                                                 
 Question:
  My 3-week-old baby is spitting up a lot — when is this normal and when should I worry?
 
