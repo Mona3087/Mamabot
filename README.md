@@ -1,10 +1,13 @@
+```
 (base) monalishasingh@monalishas-mbp Downloads % python3 mamabot_jupyter_notebook.py
 Gathering a quick snapshot of configured reliable sources...
 
 - CDC: Centers for Disease Control and Prevention | CDC (len=3015)
 - AAP (HealthyChildren.org): HealthyChildren.org - From the American Academy of Pediatrics (len=3015)
 - WHO: World Health Organization (WHO) (len=3015)
- WARNING: MamaBot provides general informational support for new parents. It is NOT a substitute for professional medical, legal, or emergency advice. If you suspect an emergency, call your local emergency number or seek immediate medical care.                                                                                                 
+ WARNING: MamaBot provides general informational support for new parents. It is NOT a substitute for professional medical, legal, or emergency advice. If you suspect an emergency, call your local emergency number or seek immediate medical care.
+
+  
 Question:
  My 3-week-old baby is spitting up a lot — when is this normal and when should I worry?
 
@@ -67,3 +70,15 @@ Citations:
 - AAP (HealthyChildren.org): https://www.healthychildren.org/
 - WHO: https://www.who.int/
 (base) monalishasingh@monalishas-mbp Downloads %
+```
+
+ToDo:
+1. Build UI 
+2. Add more conexts
+3. Add some ref questions
+4. Conversational Memory
+5. Store context per parent session
+6. A chatbot in Streamlit/React
+7. Mobile app that caches top Q&As (Stretch goal)
+8. Shows thought for accessibility
+
