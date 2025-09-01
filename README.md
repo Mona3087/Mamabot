@@ -1,3 +1,17 @@
+# 👶 MamaBot
+
+MamaBot is an AI-powered assistant designed to help new parents with common questions about baby care.  
+It pulls information from **reliable sources** like the CDC, WHO, Mayo Clinic, and HealthyChildren.org, and always displays a **safety warning** reminding users that it is **not a substitute for professional medical advice**.
+
+---
+
+## ✨ Features
+- ✅ Answers parenting and baby-care questions with sourced information  
+- ✅ Prints a **warning banner** for every response  
+- ✅ Retrieval-Augmented Generation (RAG) for grounding answers in trusted references  
+
+
+
 ```
 (base) monalishasingh@monalishas-mbp Downloads % python3 mamabot_jupyter_notebook.py
 Gathering a quick snapshot of configured reliable sources...
